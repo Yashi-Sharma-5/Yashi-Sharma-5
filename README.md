@@ -21,6 +21,11 @@ Languages:
 - C
 - C++
 
+🎨 Frontend  
+- HTML  
+- CSS  
+- React (learning)
+  
 Concepts:
 - Data Structures
 - Algorithms
@@ -29,6 +34,18 @@ Concepts:
 Tools:
 - VS Code
 
+## 📂 Featured Projects
+
+### 🏋️ Exercise App
+An interactive exercise platform that guides users through stretching and workout routines with animations.
+
+## 🌱 Currently Learning
+
+- Data Structures
+- Algorithms
+- Frontend Development
+- Blockchain Systems
+  
 ---
 
 ## 📫 Connect With Me
