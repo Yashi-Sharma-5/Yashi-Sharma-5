@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Yashi Sharma 👋
 
-<!--
-**Yashi-Sharma-5/Yashi-Sharma-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science (AI) Student  
+🏫 JK Lakshmipat University (2024–2028)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💻 Interested in **AI, Blockchain, and Software Development**
+- 🏆 Hackathon participant and builder
+- 📚 Improving my **coding, communication, and consistency**
+
+---
+
+## 🛠️ Skills
+
+Languages:
+- Python
+- C
+- C++
+
+Concepts:
+- Data Structures
+- Algorithms
+- Problem Solving
+
+Tools:
+- VS Code
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/yashisharma-cs
